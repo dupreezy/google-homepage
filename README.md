@@ -1,0 +1,1 @@
+In this HTML file I've demonstrated an understanding of how to use Web Dev tools in chrome to obtain and copy code in an effort to approximate what a google homepage would look like.  I've also experimented with CSS styling for practice.  It is certainly very rudamentary but it was a worthwhile experience for me to get some practice bridging HTML and CSS together.
